@@ -1,4 +1,4 @@
-# Lab-Mid-Advance-Web-
+# Product project -
 ![p1](https://github.com/user-attachments/assets/8eabc25c-5736-4e0b-8170-3e55b290cb73)
 
 ![p2](https://github.com/user-attachments/assets/9f58b16b-43c4-4c35-8f62-02e8228a5246)
